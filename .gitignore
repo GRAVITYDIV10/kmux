@@ -1,2 +1,6 @@
-kmux
-kmux.exe
+kmux-server
+kmux-client
+kmux-tool
+rand
+rand.enc
+rand.dec
